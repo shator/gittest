@@ -1,4 +1,4 @@
-test prva linija - izmenjena opet x2 32313
+test prva linija - izmenjena opet x2 32313i12312313
 druga
 treca izmenjena
 nova linija
