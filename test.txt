@@ -2,3 +2,4 @@ test prva linija
 druga
 treca izmenjena
 nova linija
+izmena na grani
