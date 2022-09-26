@@ -1,4 +1,4 @@
-test prva linija - izmenjena opet
+test prva linija - izmenjena opet x2
 druga
 treca izmenjena
 nova linija
