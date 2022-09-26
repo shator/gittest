@@ -1,4 +1,4 @@
-test prva linija - izmenjena
+test prva linija - izmenjena opet
 druga
 treca izmenjena
 nova linija
